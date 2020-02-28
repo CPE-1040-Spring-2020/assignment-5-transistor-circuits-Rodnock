@@ -11,6 +11,12 @@ Code: 98ffb5e9c5964e27028001933faec10caa0e4709
 _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is part of the assignment to fill it. Refer to the [submission template](submission-template.md) for expectations and guidance. Read the [requirements](requirements.md) and [criteria](criteria.md) for the assignment proper._
 
 
+3. i. 0V
+3. ii. 2.7V
+3. iii. 0V
+3. iv. 0V
+
+
 ```
   _           _       _   _       _       _                 _    
  | |         | |     | \ | |     | |     | |               | |   
