@@ -10,6 +10,17 @@ Code: 98ffb5e9c5964e27028001933faec10caa0e4709
 
 _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is part of the assignment to fill it. Refer to the [submission template](submission-template.md) for expectations and guidance. Read the [requirements](requirements.md) and [criteria](criteria.md) for the assignment proper._
 
+```
+  _           _       _   _       _       _                 _    
+ | |         | |     | \ | |     | |     | |               | |   
+ | |     __ _| |__   |  \| | ___ | |_ ___| |__   ___   ___ | | __
+ | |    / _` | '_ \  | . ` |/ _ \| __/ _ \ '_ \ / _ \ / _ \| |/ /
+ | |___| (_| | |_) | | |\  | (_) | ||  __/ |_) | (_) | (_) |   < 
+ |______\__,_|_.__/  |_| \_|\___/ \__\___|_.__/ \___/ \___/|_|\_\
+                                                                                                                      
+```
+Art acknowledgement: [taag](http://patorjk.com/software/taag/)
+
 **NPN transistor circuit:**
 
 **Switch off Voltage:**
@@ -96,13 +107,4 @@ Emitter: 0uA
 
 [Drawing](https://imgur.com/a/hSB7P5D)
 
-```
-  _           _       _   _       _       _                 _    
- | |         | |     | \ | |     | |     | |               | |   
- | |     __ _| |__   |  \| | ___ | |_ ___| |__   ___   ___ | | __
- | |    / _` | '_ \  | . ` |/ _ \| __/ _ \ '_ \ / _ \ / _ \| |/ /
- | |___| (_| | |_) | | |\  | (_) | ||  __/ |_) | (_) | (_) |   < 
- |______\__,_|_.__/  |_| \_|\___/ \__\___|_.__/ \___/ \___/|_|\_\
-                                                                                                                      
-```
-Art acknowledgement: [taag](http://patorjk.com/software/taag/)
+
