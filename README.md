@@ -107,4 +107,8 @@ Emitter: 0uA
 
 [Drawing](https://imgur.com/a/hSB7P5D)
 
+**Soil Sensor**
 
+1. There is less resistance the higher the moisture content of the soil. The soil sensor sends electricity down probe 2, and then depending on the resistance of the soil, probe 1 conducts electricity. If the voltage is high enough on probe 1, it trips the transistor and begins sending a signal back to the controller.
+
+2. 
