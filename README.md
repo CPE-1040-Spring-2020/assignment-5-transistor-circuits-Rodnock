@@ -127,6 +127,7 @@ Slightly Wet Soil: 4.1 V
 
 Fully Soaked Soil: 5 V
 
+4. Digital In LED [Video](https://imgur.com/a/KN89csu)
 
 
 
