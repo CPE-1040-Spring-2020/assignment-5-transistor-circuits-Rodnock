@@ -111,4 +111,22 @@ Emitter: 0uA
 
 1. There is less resistance the higher the moisture content of the soil. The soil sensor sends electricity down probe 2, and then depending on the resistance of the soil, probe 1 conducts electricity. If the voltage is high enough on probe 1, it trips the transistor and begins sending a signal back to the controller.
 
-2. 
+2. Fully soaked soil can be emulated by a small cup of water, with wires dipped in it leading back to the multimeter, simulating the soil sensor. [Image](https://imgur.com/a/5NOqWF2)
+
+Dry Soil: Infinite Resistance
+
+Slightly Wet Soil: .7M Ohms
+
+Fully Soaked Soil: .3M Ohms
+
+3. You can emulate the soil in the same was as when you measure resistance, but the soil sensor needs to be hooked up to power to measure the voltage on probe 1, and probe 2. [Image](https://imgur.com/a/yEDpfTt)
+
+Dry Soil: 0 V
+
+Slightly Wet Soil: 4.1 V
+
+Fully Soaked Soil: 5 V
+
+
+
+
