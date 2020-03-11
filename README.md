@@ -127,7 +127,10 @@ Slightly Wet Soil: 4.1 V
 
 Fully Soaked Soil: 5 V
 
-4. Digital In LED [Video](https://imgur.com/a/KN89csu)
+4. When the MicroBit detects electricity on pin 8 of hte breadboard, it signals pin 16 to turn on the LED.
 
+Digital In LED [Video](https://imgur.com/a/KN89csu)
 
+6. Depending on the moisture the soil sensor is touched to, it raises and lowers the line of LEDs on the MicroBit. Lower LEDs is higher resistance, and therefor dryer soil.
 
+Manual Calibration [Video](https://imgur.com/a/b3YXZmB)
