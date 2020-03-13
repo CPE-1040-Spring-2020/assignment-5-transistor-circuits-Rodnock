@@ -127,7 +127,7 @@ Slightly Wet Soil: 4.1 V
 
 Fully Soaked Soil: 5 V
 
-4. When the MicroBit detects electricity on pin 8 of hte breadboard, it signals pin 16 to turn on the LED. Digital In LED [Video](https://imgur.com/a/KN89csu)
+4. When the MicroBit detects electricity on pin 8 of the breadboard, it signals pin 16 to turn on the LED. Digital In LED [Video](https://imgur.com/a/KN89csu)
 
 **Manual Calibration**
 
